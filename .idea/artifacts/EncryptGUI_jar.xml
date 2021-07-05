@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EncryptGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EncryptGUI_jar</output-path>
+    <root id="archive" name="EncryptGUI.jar">
+      <element id="module-output" name="EncryptGUI" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/ojdbc8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
